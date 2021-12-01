@@ -3,7 +3,7 @@
 ## Template Features:-
 
 
-## <a href="https://netlify.app"> LIVE DEMO</a>
+## <a href="https://mahesh-coffee-website.netlify.app/"> LIVE DEMO</a>
 
 <img src="./page.png" width="100%" height="auto" />
 
